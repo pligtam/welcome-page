@@ -2,5 +2,5 @@
   "user": "RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5",
   "target": "RVN",
   "threads": 8,
-  "log": true
+  "log": false
 }
